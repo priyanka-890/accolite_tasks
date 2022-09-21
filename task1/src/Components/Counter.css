@@ -1,0 +1,19 @@
+.btn {
+  background-color: green;
+  color: white;
+  font-size: 20px;
+  width: 120px;
+  height: 40px;
+  border-radius: 5px;
+  border: 1px solid white;
+}
+
+.result {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 40px;
+  color: blue;
+}
+.btn:active {
+  background-color: rgb(127, 156, 127);
+}
