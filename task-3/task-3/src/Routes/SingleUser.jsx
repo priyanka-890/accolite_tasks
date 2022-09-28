@@ -2,7 +2,7 @@ import React from "react";
 import "./UserList.css";
 
 const SingleUser = ({ first_name, last_name, email, gender, ip_address }) => {
-  // console.log("item");
+  
   return (
     <div>
       <div>
@@ -23,7 +23,7 @@ const SingleUser = ({ first_name, last_name, email, gender, ip_address }) => {
         <sapn className="heading">IP:</sapn>
         {ip_address}
       </div>
-      hhhhhh
+    
     </div>
   );
 };
