@@ -1,0 +1,19 @@
+.navbar a {
+  color: white;
+}
+.navbar a:hover {
+  color: white;
+}
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  /* background-color: red; */
+}
+.card {
+  width: 100%;
+  margin: 20px;
+}
